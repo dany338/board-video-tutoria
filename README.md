@@ -13,5 +13,19 @@
 - https://github.com/AntonioErdeljac/AntonioErdeljac
 
 <p align="center">
-     <a href="#" target="blank"><img src="./public/Capture.PNG" width="100%" alt="Prisma studio - table mood" /></a>
-   </p>
+  <a href="#" target="blank"><img src="./public/Capture.PNG" width="100%" alt="Prisma studio - table mood" /></a>
+</p>
+
+```shell
+npx shadcn-ui@latest add dialog
+npx shadcn-ui@latest add tooltip
+
+npm run dev
+
+npx convex dev
+
+```
+
+<p align="center">
+  <a href="#" target="blank"><img src="./public/organization.PNG" width="100%" alt="Prisma studio - table mood" /></a>
+</p>
