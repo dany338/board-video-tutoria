@@ -12,3 +12,6 @@
 
 - https://github.com/AntonioErdeljac/AntonioErdeljac
 
+<p align="center">
+     <a href="#" target="blank"><img src="./public/Capture.PNG" width="100%" alt="Prisma studio - table mood" /></a>
+   </p>
